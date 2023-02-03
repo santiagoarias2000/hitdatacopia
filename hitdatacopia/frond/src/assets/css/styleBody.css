@@ -1,0 +1,99 @@
+.detail_title {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color: #007b00;
+}
+
+.details_button {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color: #007b00;
+}
+
+.detail_main {
+    text-align: center;
+}
+
+.detail_main h5 {
+    color: #007b00;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.camera_center {
+    display: flex;
+    justify-content: center;
+}
+
+.camera_center_button {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.color_camera {
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    border-radius: 40px;
+    border-color: #85E11E;
+    border: 1px solid #85E11E;
+    background-color: #005200;
+    transition: background-color 1s;
+    color: #FFF;
+}
+
+.color_camera:hover {
+    color: #000;
+    background-color: #fff;
+    transition: all 1s;
+}
+
+.filter_list {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.css-button-3d--sand:hover {
+    box-shadow: 0 3px #adb5bd;
+    top: 1px;
+}
+
+.css-button-3d--sand {
+    background: #ced4da;
+    box-shadow: 0 5px #adb5bd;
+}
+
+.css-button {
+    font-size: 23px;
+    font-weight: 600;
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-weight: 700;
+    background: transparent;
+    cursor: pointer;
+    transition: all .3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border: none;
+}
+.pdf{
+    
+    font-size: 30px;
+    color:#c20000;
+    padding-left: 10px;
+}
+.pdf:hover{
+
+    color:#ff0000;
+}

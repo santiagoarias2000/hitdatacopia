@@ -1,0 +1,17 @@
+.color_menu {
+    background-image: linear-gradient( to bottom, #00ff7a, #0cfc6c, #18fa5d, #23f74c, #2cf439, #2fef2e, #32eb20, #34e60c, #32df09, #30d705, #2ed003, #2cc900);
+}
+
+.container_title {
+    margin: 250px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.title_main {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    color: #fff;
+}
